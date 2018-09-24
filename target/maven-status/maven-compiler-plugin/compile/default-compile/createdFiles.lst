@@ -1,0 +1,15 @@
+entity/Pet.class
+facade/FacadePetInterface.class
+entity/Pet_.class
+entity/Owner_.class
+facade/FacadeEvent.class
+tester/JustSomeTests.class
+entity/EventDTO.class
+facade/FacadePet.class
+rest/RESTPet.class
+rest/JsonConverter.class
+entity/Event_.class
+entity/Event.class
+entity/Owner.class
+rest/ApplicationConfig.class
+entity/PetDTO.class

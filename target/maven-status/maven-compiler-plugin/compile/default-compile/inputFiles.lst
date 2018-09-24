@@ -1,0 +1,12 @@
+/Users/Oliver/Datamatiker/3. semester/Week6-REST/petHospital/src/main/java/rest/ApplicationConfig.java
+/Users/Oliver/Datamatiker/3. semester/Week6-REST/petHospital/src/main/java/rest/JsonConverter.java
+/Users/Oliver/Datamatiker/3. semester/Week6-REST/petHospital/src/main/java/facade/FacadeEvent.java
+/Users/Oliver/Datamatiker/3. semester/Week6-REST/petHospital/src/main/java/tester/JustSomeTests.java
+/Users/Oliver/Datamatiker/3. semester/Week6-REST/petHospital/src/main/java/rest/RESTPet.java
+/Users/Oliver/Datamatiker/3. semester/Week6-REST/petHospital/src/main/java/entity/PetDTO.java
+/Users/Oliver/Datamatiker/3. semester/Week6-REST/petHospital/src/main/java/facade/FacadePetInterface.java
+/Users/Oliver/Datamatiker/3. semester/Week6-REST/petHospital/src/main/java/facade/FacadePet.java
+/Users/Oliver/Datamatiker/3. semester/Week6-REST/petHospital/src/main/java/entity/Event.java
+/Users/Oliver/Datamatiker/3. semester/Week6-REST/petHospital/src/main/java/entity/EventDTO.java
+/Users/Oliver/Datamatiker/3. semester/Week6-REST/petHospital/src/main/java/entity/Pet.java
+/Users/Oliver/Datamatiker/3. semester/Week6-REST/petHospital/src/main/java/entity/Owner.java
